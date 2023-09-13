@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Project Name : Lending-Club-Case-Study
+> The project analyze the dataset of customers and loan realted information
 
 
 ## Table of Contents
