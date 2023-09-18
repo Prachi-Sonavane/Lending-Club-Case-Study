@@ -1,5 +1,5 @@
 # Project Name : Lending-Club-Case-Study
-> The project analyze the dataset of customers and loan realted information
+> The project analyses the loan dataset of a loan lending company and carry out business driven decision making to reduce loss and increase profit of the company
 
 
 ## Table of Contents
