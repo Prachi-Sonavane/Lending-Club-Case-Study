@@ -1,5 +1,5 @@
 # Project Name : Lending-Club-Case-Study
-> The project analyses the loan dataset of a loan lending company and carry out business driven decision making to reduce loss and increase profit of the company
+> The project analyses the loan dataset of a loan lending company and carries out business driven decision making to reduce loss and increase profit of the company
 
 
 ## Table of Contents
@@ -20,7 +20,7 @@ So we have used Exploratory Data Analysis in this project to analyse the loan da
 ## Conclusions
 1. Referring to our analysis done above on the given loan dataset, we have seen many factors that can help to target customers to pitch for offering them loans to get more customers with more profit and less risk component.
   
-2. We can consider different  factors for this like which state’s customers most likely too take loans and pay back fully, income of customers and purpose of their loan and so on as mentioned above.
+2. We can consider different  factors for this like which state’s customers most likely to take loans and pay back fully, income of customers and purpose of their loan and so on as mentioned above.
 
 3. With this analysis, we can reduce the risk factor and increase profit for this loan lending company.
 
